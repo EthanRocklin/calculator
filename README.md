@@ -17,6 +17,6 @@ different orientations or on different devices.
 <img width="30%" height="1615" alt="calculator_calc1" src="https://github.com/user-attachments/assets/47c19cd9-85e5-4b54-bbc4-a1b43a92b977" />
 <img width="30%" height="1608" alt="calculator_calc2" src="https://github.com/user-attachments/assets/f07dd6f4-1fb8-4226-8c0a-4d4da47c987d" />
 <img width="30%" height="1615" alt="calculator_calc3" src="https://github.com/user-attachments/assets/7435acab-db1c-4f7e-93ea-50dbb16cd55b" />
-<img width="30%" height="589" alt="calculator_calc4" src="https://github.com/user-attachments/assets/b2953474-6e21-4373-be76-a1259f5211f6" />
+<img width="60%" height="589" alt="calculator_calc4" src="https://github.com/user-attachments/assets/b2953474-6e21-4373-be76-a1259f5211f6" />
 <img width="30%" height="1610" alt="calculator_calc5" src="https://github.com/user-attachments/assets/3aff59ab-dc6a-4f46-b825-8cc7f64e4bcc" />
 <img width="30%" height="1016" alt="calculator_calc6" src="https://github.com/user-attachments/assets/c1672711-47ce-4722-a030-f91a60efd06c" />
